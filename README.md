@@ -6,6 +6,6 @@ Language used
 
 Library Used
  
- * Keras
- * Tensorflow
- * os
+ * Keras #pip install keras
+ * Tensorflow==2 #pip install tensorflow
+ * os #inbuild
